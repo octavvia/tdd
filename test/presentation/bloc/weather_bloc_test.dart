@@ -8,7 +8,7 @@ import 'package:tdd/presentation/bloc/weather_bloc.dart';
 import 'package:tdd/presentation/bloc/weather_event.dart';
 import 'package:tdd/presentation/bloc/weather_state.dart';
 
-import '../../helper/test_helper.mocks.dart';
+import '../../helper/_test_helper.mocks.dart';
 
 void main() {
 

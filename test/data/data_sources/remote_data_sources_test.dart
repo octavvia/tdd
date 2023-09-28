@@ -7,7 +7,7 @@ import 'package:tdd/data/data_source/remote_data_source.dart';
 import 'package:tdd/data/models/weater_models.dart';
 
 import '../../helper/json_reader.dart';
-import '../../helper/test_helper.mocks.dart';
+import '../../helper/_test_helper.mocks.dart';
 
 void main() {
   late MockHttpClient mockHttpClient;
