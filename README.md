@@ -1,16 +1,9 @@
-# tdd
+my tdd simple app for learning purposes
 
-A new Flutter project.
+reference :
 
-## Getting Started
+1. (tdd)[https://betterprogramming.pub/flutter-clean-architecture-test-driven-development-practical-guide-445f388e8604]
 
-This project is a starting point for a Flutter application.
+2. (api weather)[https://openweathermap.org/api]
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. (youtube video)[https://youtu.be/g2Mup12MccU?si=Jzx8-mYk2k9jhUzn]
