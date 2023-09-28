@@ -7,3 +7,5 @@ reference :
 2. (api weather)[https://openweathermap.org/api]
 
 3. (youtube video)[https://youtu.be/g2Mup12MccU?si=Jzx8-mYk2k9jhUzn]
+
+4. this projet not finalled yet
