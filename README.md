@@ -1,11 +1,10 @@
 my tdd simple app for learning purposes
 
 
-1.
-
-2.
-
-3.
+app test result:
+| Title | Problem | Step Reproduce| Expect Behaviour | Screen Shoot | Result |
+| :---: | :---: | :---: | :---: | :---:| :---: |
+| Search City | When input jakarta app doesn't show jakarta | 1.Open App 2. Input City on form 3. press enter | Show City, Emoticon, temperature, pressure, humidity | <img width="328" alt="Screenshot 2023-10-24 at 1 32 04 PM" src="https://github.com/octavvia/tdd/assets/86775678/6abd5915-a659-400b-8bd0-c48127a5e526"> | Passed|
 
 
 reference :
